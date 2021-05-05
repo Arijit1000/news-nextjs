@@ -1,1 +1,3 @@
-This is for an upcoming tutorial
+## News-App
+
+This is a News App which is made using next js. 
